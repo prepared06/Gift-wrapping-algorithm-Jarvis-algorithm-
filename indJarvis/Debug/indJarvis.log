@@ -1,0 +1,13 @@
+﻿  indJarvis.cpp
+d:\enjoy\labsforborodavka\indjarvis\indjarvis\indjarvis.cpp(14): warning C4244: инициализация: преобразование "GLuint" в "GLfloat", возможна потеря данных
+d:\enjoy\labsforborodavka\indjarvis\indjarvis\indjarvis.cpp(148): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+d:\enjoy\labsforborodavka\indjarvis\indjarvis\indjarvis.cpp(181): warning C4018: <: несоответствие типов со знаком и без знака
+d:\enjoy\labsforborodavka\indjarvis\indjarvis\indjarvis.cpp(259): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+d:\enjoy\labsforborodavka\indjarvis\indjarvis\indjarvis.cpp(260): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+d:\enjoy\labsforborodavka\indjarvis\indjarvis\indjarvis.cpp(264): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+d:\enjoy\labsforborodavka\indjarvis\indjarvis\indjarvis.cpp(265): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+d:\enjoy\labsforborodavka\indjarvis\indjarvis\indjarvis.cpp(267): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+d:\enjoy\labsforborodavka\indjarvis\indjarvis\indjarvis.cpp(268): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+d:\enjoy\labsforborodavka\indjarvis\indjarvis\indjarvis.cpp(274): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  indJarvis.vcxproj -> D:\Enjoy\labsForBorodavka\indJarvis\Debug\indJarvis.exe
